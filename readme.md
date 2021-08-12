@@ -1,1 +1,1 @@
-## [Random Quote Generator] (https://efem213.github.io/bootstrap_RandoQuoteGenerator__/)
+<a href="https://efem213.github.io/bootstrap_RandoQuoteGenerator__/">[Random Quote Generator]</a>
